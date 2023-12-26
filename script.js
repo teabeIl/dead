@@ -10,7 +10,7 @@ yesBtn.addEventListener("click", () => {
   yesBtn.style.visibility = "hidden";
   noBtn.style.visibility = "hidden";
   yeslink.style.visibility = "visible";
-  document.body.style.background = "url(https://i.pinimg.com/originals/a7/57/d2/a757d203a381c5628bddfa55af3094b1.gif)";
+  document.body.style.background = "url(https://i.pinimg.com/originals/eb/2a/8f/eb2a8f4ddfb50c23712a3cd0d5cc2a3a.gif)";
   document.body.style.backgroundSize = "cover";
 });
 
